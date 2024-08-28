@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Sushmitha Jagannath<br>I'm a passionate Computer Science graduate student at the University of California, Irvine, sharing my learnings and projects here. My journey in the world of technology has been fueled by a deep passion for coding and a curiosity for building cool projects.<br><br>About Me<br>🎓 Currently pursuing my Master's in Computer Science at UC Irvine<br>💻 Passionate about coding and exploring new technologies<br>🚀 Enthusiastic about working on innovative projects and learning from real-world challenges<br>🌟 Always eager to collaborate and share knowledge with fellow developers
+Hi there! 👋 I'm Sushmitha Jagannath<br>I'm a passionate Computer Science graduate student at the University of California, Irvine, sharing my learnings and projects here. My journey in the world of technology has been fueled by a deep passion for coding and a curiosity for building cool projects.
 
 
 ## 🌐 Socials:
