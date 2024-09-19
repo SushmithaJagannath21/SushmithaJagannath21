@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi there! 👋 I'm Sushmitha Jagannath<br>I'm a Computer Science graduate student at the University of California, Irvine, sharing my learnings and projects here. 
 
 Connect with me on LinkedIn: 
